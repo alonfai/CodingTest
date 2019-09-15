@@ -1,6 +1,10 @@
+## Weather Application
+
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It showcase a weather app, fetching data from the `https://openweathermap.org/` API service, displaying the current weather conditions of Australia’s major capital cities.
+It showcase a weather app, fetching data from the `https://openweathermap.org/` API service, displaying the current weather conditions of Australia’s major capital cities in responsive flexbox layout.
 It displays the name of the city, current temperature and conditions,
 
 ## Code practises and NPM modules used
@@ -9,7 +13,8 @@ In this project, the main `npm` modules used are
 * React 16.9+
 * redux starter kit + react-redux
 * Jest + React Testing Library
-* redux-thunk
+* axios
+* styled-components
 * react-bootstrap
 
 ## Available Scripts
