@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityRecord should render successfully 1`] = `
+<div
+  class="sc-bdVaJa eUlSw"
+  data-testid="record"
+>
+  <ul
+    class="sc-bwzfXH fVRdXe"
+  >
+    <li
+      class="sc-bxivhb kJBUIm"
+    >
+      Temprature: 
+      296.71
+       °
+    </li>
+    <div
+      class="sc-htpNat dHjiyz"
+    >
+      <li
+        class="sc-bxivhb kJBUIm"
+      >
+        Conditions: 
+        mist
+         
+        <img
+          class="rounded-circle"
+          src="http://www.icons.com/50d"
+        />
+      </li>
+    </div>
+    <div
+      class="sc-htpNat dHjiyz"
+    >
+      <li
+        class="sc-bxivhb kJBUIm"
+      >
+        Conditions: 
+        light intensity drizzle
+         
+        <img
+          class="rounded-circle"
+          src="http://www.icons.com/09d"
+        />
+      </li>
+    </div>
+    <li
+      class="sc-bxivhb kJBUIm"
+    >
+      Wind: 
+      350
+       meter/sec, Direction: 
+      350
+       degrees
+    </li>
+    <li
+      class="sc-bxivhb kJBUIm"
+    >
+      Rain: 
+      10 mm for the last 1 hour,
+       
+      5 mm for the last 3 hours
+    </li>
+    <li
+      class="sc-bxivhb kJBUIm"
+    >
+      Snow: 
+      10 mm for the last 1 hour,
+       
+      25 mm for the last 3 hours
+    </li>
+  </ul>
+</div>
+`;

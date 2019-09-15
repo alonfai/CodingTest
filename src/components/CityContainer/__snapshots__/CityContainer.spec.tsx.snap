@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityContainer should render successfully 1`] = `
+<div
+  class="sc-ifAKCX LFxbM"
+>
+  <h1
+    class="sc-EHOje jPeloi"
+    title="mountain view"
+  >
+    mountain view
+  </h1>
+  <div
+    class="sc-bdVaJa eUlSw"
+    data-testid="loading"
+  >
+    <div
+      class="spinner-border"
+      role="status"
+    >
+      <span
+        class="sr-only"
+      >
+        Loading...
+      </span>
+    </div>
+  </div>
+</div>
+`;
