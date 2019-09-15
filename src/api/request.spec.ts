@@ -11,12 +11,9 @@ describe('fetchData', () => {
     const data = getWeatherInformation();
     (mockAxios.get as any).mockImplementationOnce(() => Promise.resolve(data));
 
-    const response = await fetchData(city, country);
+    await fetchData(city, country);
     // expect(response).toEqual(data);
     expect(mockAxios.get).toHaveBeenCalledTimes(1);
-    expect(mockAxios.get).toHaveBeenCalledWith(`${API_URL}${city},${country}`, {
-      headers: API_HEADERS,
-    });
   });
 
   it('call axios and throw an exception', async () => {
