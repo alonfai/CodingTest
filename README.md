@@ -11,11 +11,22 @@ It displays the name of the city, current temperature and conditions,
 
 In this project, the main `npm` modules used are
 * React 16.9+
+* Typescript
 * redux starter kit + react-redux
 * Jest + React Testing Library
 * axios
 * styled-components
 * react-bootstrap
+
+***
+
+## Install
+
+Close the project using the following command: 
+```  
+git clone https://github.com/alonfai/CodingTest
+npm install
+```
 
 ## Available Scripts
 
