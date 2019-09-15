@@ -24,7 +24,7 @@ This application uses OpenWeather API service. It requires to use (https://openw
 * .env.local - This file is loaded for all environments except test environment. You can add your key there during development, testing purposes Add your API key inside the curly brackets REACT_APP_APPID={Your API KEY}
 * .env - add your API key for build script inside this file or as part of your CI/CD build pipeline
 
-<br> Your can read more on embedding custom environment variables here (https://create-react-app.dev/docs/adding-custom-environment-variables`)
+<br> Your can read more on embedding custom environment variables here (https://create-react-app.dev/docs/adding-custom-environment-variables)
 
 ***
 
